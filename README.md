@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Monte Carlo Simulation
+
+Monte Carlo simulation application for stock price forecasting using React.
+
+## Geometric Brownian Motion (GBM)
+
 ![image](https://github.com/kytranl2/JSXReact/assets/148905465/8319a0dc-207f-47d6-b040-e4bfabf0e17f)
 
 ## Available Scripts
