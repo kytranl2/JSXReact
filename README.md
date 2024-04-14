@@ -1,4 +1,6 @@
 # Monte Carlo Simulation
+![image](https://github.com/kytranl2/JSXReact/assets/148905465/4d7f0d26-9919-4f18-b305-71ab5d34a5cc)
+
 
 Monte Carlo simulation application for stock price forecasting using React.
 
