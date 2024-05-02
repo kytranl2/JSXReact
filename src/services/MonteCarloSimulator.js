@@ -3,7 +3,7 @@ import Plot from 'react-plotly.js';
 import axios from 'axios';
 
 const MonteCarloSimulator = () => {
-    const [T, setT] = useState(1); // Total time in years
+    const [T, setT] = useState(100); // Total time in years
     const [dt, setDt] = useState(0.1); // Time step in years
     const [simulations, setSimulations] = useState(100);
     const [S0, setS0] = useState(100); // Initial stock price
